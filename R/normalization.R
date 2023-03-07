@@ -34,6 +34,7 @@ GeoMxNorm <- function(Data, Norm) {
     stop(paste0("Error: You have the wrong data class, must be NanoStringGeoMxSet" ))
   }
   
+  
   # run reductions ====
   color.variable <-
     Value <- Statistic <- NegProbe <- Q3 <- Annotation <- NULL

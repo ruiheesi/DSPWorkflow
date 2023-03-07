@@ -1,5 +1,6 @@
 test_that("Test Human Kidney dataset", {
   
+  
   kidney.dat <- select_normalized_RTD("kidney")
   
   output <-
