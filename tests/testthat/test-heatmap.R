@@ -9,6 +9,9 @@ test_that("making heatmap plot---Test Human Kidney dataset", {
   
 })
 
+
+
+
 test_that("making heatmap plot---Test Huamn Colon Dataset", {
   
   data <- getDataset("colon")
