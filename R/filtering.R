@@ -75,6 +75,8 @@ filtering <- function(object, loq.cutoff, loq.min, cut.segment, goi) {
                        }))
     loq.mat <- rbind(loq.mat, mat.i)
   }
+  
+  
   # ensure ordering since this is stored outside of the geomxSet
   loq.mat <- loq.mat[fData(object)$TargetName, ]
   
