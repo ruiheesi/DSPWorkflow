@@ -11,7 +11,13 @@ studyDesign(
   pheno.data.sheet = "Template",
   pheno.data.dcc.col.name = "Sample_ID",
   protocol.data.col.names = c("aoi", "roi"),
-  experiment.data.col.names = c("panel")
+  experiment.data.col.names = c("panel"),
+  slide.name.col = "slide name",
+  class.col = "class",
+  region.col = "region",
+  segment.col = "segment",
+  area.col = "area",
+  nuclei.col = "nuclei"
 )
 }
 \arguments{

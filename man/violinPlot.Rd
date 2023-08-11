@@ -4,7 +4,7 @@
 \alias{violinPlot}
 \title{Violin plot of spatially profiled genes}
 \usage{
-violinPlot(object, expr.type, genes, group, facet.by = NULL)
+violinPlot(object, expr.type, genes, group, facet.by = "none")
 }
 \arguments{
 \item{object}{Name of NanostringGeoMxSet to perform analysis on}
