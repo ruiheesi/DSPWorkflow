@@ -103,8 +103,9 @@ RUN mkdir /renv_cache
 ENV RENV_PATHS_CACHE="/renv_cache"
 
 COPY Building_R_environment/* .
-COPY Building_R_environment/* .
 
 RUN R -e 'initiate=TRUE; source("Initiate_Renv.R"); source("Generate_Renv.R")'
+
+
 
 CMD ["bash"]
