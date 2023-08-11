@@ -12,7 +12,8 @@ ENV PATH="/root/miniconda3/bin:${PATH}"
 RUN conda config --append channels bioconda \
     && conda config --append channels conda-forge \
     && conda install -c conda-forge mamba \
-    && conda install -c conda-forge conda-build
+    && conda install -c conda-forge conda-build \
+    && conda install -c conda-forge boa
 
 # Initiate Conda Bash Terminal
 RUN conda init bash
