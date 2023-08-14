@@ -14,7 +14,7 @@ channels:
 
 source:
 
-  git_url: https://github.com/NIDAP-Community/DSPWorkflow
+  git_url: https://github.com/ruiheesi/DSPWorkflow/
   git_tag: continuous_deployment
 
 build:
