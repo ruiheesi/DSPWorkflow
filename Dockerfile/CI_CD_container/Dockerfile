@@ -17,6 +17,7 @@ RUN conda config --append channels bioconda \
 
 # Initiate Conda Bash Terminal
 RUN conda init bash
+RUN conda install -c conda-forge curl
 
 # Create local conda channel
 RUN mkdir /local_channel
@@ -24,8 +25,10 @@ RUN mkdir /local_channel/linux-64
 COPY *.tar.bz2 /local_channel/linux-64/
 RUN conda index /local_channel
 RUN conda config --add channels file:///local_channel
+RUN conda clean --all
 
 # Ask conda to activate the built environment when starting
 ENV PATH /opt/conda/envs/env/bin:$PATH
+RUN umask 000
 
 CMD ["bash"]
