@@ -25,7 +25,6 @@ RUN mkdir /local_channel/linux-64
 COPY *.tar.bz2 /local_channel/linux-64/
 RUN conda index /local_channel
 RUN conda config --add channels file:///local_channel
-RUN conda clean --all
 RUN python3 -m pip install python-semantic-release
 RUN apt update && apt-get install -y --no-install-recommends pandoc
 
