@@ -14,4 +14,7 @@ jobs:
     uses: fnlcr-bids-sdsi/gitflow-R/.github/workflows/parser.yml@dsp_cd_test
     with:
       image_to_use: ghcr.io/nidap-community/dsp_ci_cd:latest
+    secrets:
+      PAT: ${{ secrets.PAT }}
+      
 
