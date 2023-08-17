@@ -4,7 +4,6 @@ run-name: Continuous Deployment to NIDAP by ${{ github.actor }}
 on:
   workflow_dispatch:
     inputs:
-    
       image_to_use:
         required: false
         default: fnlcr-bids-sdsi/gitflow-R/.github/workflows/parser.yml@dsp_cd_test
