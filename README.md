@@ -9,3 +9,6 @@ Datetime: 2023-08-14 15:51:02, Version:  r-dspworkflow-0.9.5.1-r41_0.tar.bz2
 
 Datetime: 2023-08-14 17:31:15, Version:  r-dspworkflow-0.9.5.1-r41_0.tar.bz2
 <br>Deployment Status: Default:Unauthorized
+
+Datetime: 2023-08-17 00:06:44, Version:  r-dspworkflow-1.0.1-r41_0.tar.bz2
+<br>Deployment Status: Default:Unauthorized
