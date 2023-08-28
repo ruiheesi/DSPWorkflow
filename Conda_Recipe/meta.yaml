@@ -14,7 +14,7 @@ channels:
 
 source:
 
-  git_url: https://github.com/NIDAP-Community/DSPWorkflow
+  git_url: https://github.com/ruiheesi/DSPWorkflow/
   git_tag: continuous_deployment
 
 build:
@@ -43,6 +43,7 @@ requirements:
     - bioconductor-nanostringnctools =1.2.0
     - bioconductor-spatialdecon =1.4.3
     - bioconductor-complexheatmap =2.10.0=r41hdfd78af_0
+    - bioconductor-genomeinfodbdata =1.2.6
     - r-cowplot =1.1.1=r41hc72bb7e_1
     - r-dplyr =1.0.9=r41h7525677_0
     - r-ggforce =0.3.4=r41h7525677_0
@@ -69,6 +70,7 @@ requirements:
     - bioconductor-nanostringnctools =1.2.0
     - bioconductor-spatialdecon =1.4.3
     - bioconductor-complexheatmap =2.10.0=r41hdfd78af_0
+    - bioconductor-genomeinfodbdata =1.2.6  
     - r-cowplot =1.1.1=r41hc72bb7e_1
     - r-dplyr =1.0.9=r41h7525677_0
     - r-ggforce =0.3.4=r41h7525677_0

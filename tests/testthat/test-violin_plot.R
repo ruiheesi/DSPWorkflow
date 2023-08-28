@@ -5,6 +5,8 @@ test_that("Violin Plot works for Human Kidney data", {
 
   violin.out <- do.call(violinPlot, kidney.data)
 
+  
+  
   # .drawViolinFig creates figure in tmp, compare with figure in _snaps
   skip_on_ci()
   expect_snapshot_file(
