@@ -95,12 +95,6 @@ test:
     - $R -e "library('DSPWorkflow')"           # [not win]
     - "\"%R%\" -e \"library('DSPWorkflow')\""  # [win]
 
-  # You can also put a file called run_test.py, run_test.sh, or run_test.bat
-  # in the recipe that will be run at test time.
-
-  # requires:
-    # Put any additional test requirements here.
-
 about:
   home: https://github.com/NIDAP-Community/DSPWorkflow
   license: MIT
