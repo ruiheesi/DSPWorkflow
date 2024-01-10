@@ -47,3 +47,7 @@ Datetime: 2024-01-10 17:23:52, Version:  r-dspworkflow-1.2.1-r41_0.tar.bz2
 Datetime: 2024-01-10 18:51:41, Version:  r-dspworkflow-test-dev-1.2.2-r41_0.tar.bz2
 <br>[View Commit Log](Commit_Log_r-dspworkflow-test-dev-1.2.2-r41_0.log)
 <br>Deployment Status: Success
+
+Datetime: 2024-01-10 21:32:30, Version:  r-dspworkflow-test-1.2.2-r41_0.tar.bz2
+<br>[View Commit Log](Commit_Log_r-dspworkflow-test-1.2.2-r41_0.log)
+<br>Deployment Status: Default:Unauthorized
