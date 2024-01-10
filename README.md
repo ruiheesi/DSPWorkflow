@@ -39,3 +39,7 @@ Datetime: 2023-08-17 23:07:17, Version:  r-dspworkflow-1.1.0-r41_0.tar.bz2
 Datetime: 2023-08-18 00:05:23, Version:  r-dspworkflow-1.1.0-r41_0.tar.bz2
 <br>[View Commit Log](Commit_Log_r-dspworkflow-1.1.0-r41_0.log)
 <br>Deployment Status: Success
+
+Datetime: 2024-01-10 17:23:52, Version:  r-dspworkflow-1.2.1-r41_0.tar.bz2
+<br>[View Commit Log](Commit_Log_r-dspworkflow-1.2.1-r41_0.log)
+<br>Deployment Status: Success
