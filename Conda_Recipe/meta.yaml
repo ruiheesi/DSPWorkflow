@@ -4,7 +4,7 @@
 {% set native = 'm2w64-' if win else '' %}
 
 package:
-  name: r-dspworkflow
+  name: r-dspworkflow-test
   version: {{ version|replace("-", "_") }}
 
 channels:
