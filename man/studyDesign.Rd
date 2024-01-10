@@ -11,7 +11,15 @@ studyDesign(
   pheno.data.sheet = "Template",
   pheno.data.dcc.col.name = "Sample_ID",
   protocol.data.col.names = c("aoi", "roi"),
-  experiment.data.col.names = c("panel")
+  experiment.data.col.names = c("panel"),
+  slide.name.col = "slide name",
+  class.col = "class",
+  region.col = "region",
+  segment.col = "segment",
+  area.col = "area",
+  nuclei.col = "nuclei",
+  sankey.exclude.slide = FALSE,
+  segment.id.length = 4
 )
 }
 \arguments{
@@ -36,6 +44,14 @@ sequencing data.}
 
 \item{experiment.data.col.names}{Character list of column names from
 phenoDataFile containing data about the experiment's meta-data.}
+
+\item{slide.name.col}{The name of the field that contains the slide names}
+
+\item{class.col}{The name of the field that contains the class annotation}
+
+\item{region.col}{The name of the field that contains the class annotation}
+
+\item{segment.col}{The name of the field that contains the class annotation}
 }
 \value{
 A list containing the NanoString Object and the Sankey plot.

@@ -4,7 +4,15 @@
 \alias{filtering}
 \title{Filtering NanoStringGeoMxSet dataset}
 \usage{
-filtering(object, loq.cutoff, loq.min, cut.segment, goi)
+filtering(
+  object,
+  loq.cutoff = 2,
+  loq.min = 2,
+  segment.gene.rate.cutoff = 0.05,
+  study.gene.rate.cutoff = 0.05,
+  sankey.exclude.slide = FALSE,
+  goi
+)
 }
 \arguments{
 \item{object}{A NanoStringGeoMxSet dataset}
