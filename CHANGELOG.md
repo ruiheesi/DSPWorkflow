@@ -2,9 +2,32 @@
 
 
 
-## v1.1.0 (2024-01-10)
+## v1.2.1 (2024-01-10)
+
+### Fix
+
+* fix: Update version number to 1.2.0 ([`7277811`](https://github.com/ruiheesi/DSPWorkflow/commit/7277811d0d9d8df5c35749f7f9830fc3849ec6a1))
+
+### Unknown
+
+* Merge pull request #28 from ruiheesi/dev
+
+Dev ([`d0eeb8e`](https://github.com/ruiheesi/DSPWorkflow/commit/d0eeb8e5ed1d48b4cbd6c50e248dd357079a988c))
+
+* Merge pull request #27 from ruiheesi/testCD
+
+fix: Update version number to 1.2.0 ([`07f98f8`](https://github.com/ruiheesi/DSPWorkflow/commit/07f98f8f6f0e7ab57a2112afa95a2728bdd1460d))
+
+* Merge branch &#39;dev&#39; into testCD
+
+Signed-off-by: Rui He &lt;107956586+ruiheesi@users.noreply.github.com&gt; ([`b6fa602`](https://github.com/ruiheesi/DSPWorkflow/commit/b6fa602321aa68a9eead29f783380ef111d36ed4))
+
+
+## v1.2.0 (2024-01-10)
 
 ### Documentation
+
+* docs(version): Automatic development release ([`0ca06d6`](https://github.com/ruiheesi/DSPWorkflow/commit/0ca06d6329569280543227e8bed5cedf3b27c60e))
 
 * docs: clean meta.yaml ([`678d602`](https://github.com/ruiheesi/DSPWorkflow/commit/678d60236bf9961e8d66944505fba88dda9e1a6a))
 
