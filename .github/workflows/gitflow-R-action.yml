@@ -17,7 +17,7 @@ jobs:
       package_name: "r-dspworkflow-test"
       r_version: "4.1.3"
       artifact_rid_production: "ri.artifacts.main.repository.20ce29a2-3803-4eae-b325-8fe367d47d1e"
-      artifact_rid_development: "ri.artifacts.main.repository.be0ad467-35f6-438d-befc-760a8f723b17"
+      artifact_rid_development: "ri.artifacts.main.repository.99a97542-6794-4913-9281-02819ce47884"
     secrets:
       NIDAP_TOKEN_PRODUCTION: ${{ secrets.NIDAP_TOKEN_PRODUCTION }}
       NIDAP_TOKEN_DEVELOPMENT: ${{ secrets.NIDAP_TOKEN_DEVELOPMENT }}
