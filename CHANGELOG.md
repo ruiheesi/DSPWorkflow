@@ -2,30 +2,36 @@
 
 
 
-## v1.2.2 (2024-01-10)
+## v1.3.0 (2024-01-12)
+
+### Feature
+
+* feat: Update readme ([`8c5a45a`](https://github.com/ruiheesi/DSPWorkflow/commit/8c5a45a0cba089fe9382ea46e119062275836b19))
 
 ### Fix
 
-* fix: Update dev repo ([`4bca566`](https://github.com/ruiheesi/DSPWorkflow/commit/4bca5664bce896ca0054de097e458a33f7e21ab4))
+* fix: update gitflow naming ([`c226c27`](https://github.com/ruiheesi/DSPWorkflow/commit/c226c2754de515e5a8451ce47dc03982f6e16b94))
 
-* fix: Update package name ([`b076557`](https://github.com/ruiheesi/DSPWorkflow/commit/b076557cb15640cd7f7cdf0c44036d29a1c394fb))
+* fix: update gitflow naming ([`ec53461`](https://github.com/ruiheesi/DSPWorkflow/commit/ec53461a650f045bb8b63986018d7b9c777e47e7))
+
+* fix: update gitflow naming ([`c8739e2`](https://github.com/ruiheesi/DSPWorkflow/commit/c8739e29db35b99b6ef69257ec7e095a475346bf))
 
 ### Unknown
 
-* Merge pull request #30 from ruiheesi/dev
+* Merge pull request #34 from ruiheesi/dev
 
-Dev ([`f64e947`](https://github.com/ruiheesi/DSPWorkflow/commit/f64e9477f39b43254e16b1764f1fa9e91ca3a35c))
+Dev ([`a10fe1e`](https://github.com/ruiheesi/DSPWorkflow/commit/a10fe1eb8e5bac2810fceec3e20252bf8c64da9f))
 
-* Merge pull request #29 from ruiheesi/testCD
+* Merge pull request #33 from ruiheesi/testCD_2
 
-Test cd ([`a25cc93`](https://github.com/ruiheesi/DSPWorkflow/commit/a25cc935af9cf3ffca7d4acbd6fa4d8014d3d3df))
-
-* Merge branch &#39;testCD&#39; of https://github.com/ruiheesi/DSPWorkflow into testCD ([`aa3ad42`](https://github.com/ruiheesi/DSPWorkflow/commit/aa3ad4278557aee44fe43fb83189242aa77a2f36))
+Test cd 2 ([`928a481`](https://github.com/ruiheesi/DSPWorkflow/commit/928a481aeabf05f6f466f359def8f65c1828c92f))
 
 
-## v1.2.1 (2024-01-10)
+## v1.2.2 (2024-01-10)
 
 ### Documentation
+
+* docs(version): Automatic development release ([`7c2ff07`](https://github.com/ruiheesi/DSPWorkflow/commit/7c2ff074f7c135c78fbadb474fe691adc0878d18))
 
 * docs(version): Automatic development release ([`d14e96a`](https://github.com/ruiheesi/DSPWorkflow/commit/d14e96a841d86627c932a90068d17f9fcf0450da))
 
@@ -47,6 +53,10 @@ Test cd ([`a25cc93`](https://github.com/ruiheesi/DSPWorkflow/commit/a25cc935af9c
 
 ### Fix
 
+* fix: Update dev repo ([`4bca566`](https://github.com/ruiheesi/DSPWorkflow/commit/4bca5664bce896ca0054de097e458a33f7e21ab4))
+
+* fix: Update package name ([`b076557`](https://github.com/ruiheesi/DSPWorkflow/commit/b076557cb15640cd7f7cdf0c44036d29a1c394fb))
+
 * fix: Update version number to 1.2.0 ([`7277811`](https://github.com/ruiheesi/DSPWorkflow/commit/7277811d0d9d8df5c35749f7f9830fc3849ec6a1))
 
 * fix(DESCRIPTION): Updated dependencies in DESCRIPTION to be imports not depends ([`eedb3e3`](https://github.com/ruiheesi/DSPWorkflow/commit/eedb3e319f4a86d25b7d1e37fbdc9b8aeeed5b02))
@@ -56,6 +66,16 @@ Test cd ([`a25cc93`](https://github.com/ruiheesi/DSPWorkflow/commit/a25cc935af9c
 see https://bioinformatics.stackexchange.com/a/3375 ([`f484033`](https://github.com/ruiheesi/DSPWorkflow/commit/f4840334e3f5ba02ea6ff0106df5ad2a5e329679))
 
 ### Unknown
+
+* Merge pull request #30 from ruiheesi/dev
+
+Dev ([`f64e947`](https://github.com/ruiheesi/DSPWorkflow/commit/f64e9477f39b43254e16b1764f1fa9e91ca3a35c))
+
+* Merge pull request #29 from ruiheesi/testCD
+
+Test cd ([`a25cc93`](https://github.com/ruiheesi/DSPWorkflow/commit/a25cc935af9cf3ffca7d4acbd6fa4d8014d3d3df))
+
+* Merge branch &#39;testCD&#39; of https://github.com/ruiheesi/DSPWorkflow into testCD ([`aa3ad42`](https://github.com/ruiheesi/DSPWorkflow/commit/aa3ad4278557aee44fe43fb83189242aa77a2f36))
 
 * Merge pull request #28 from ruiheesi/dev
 
