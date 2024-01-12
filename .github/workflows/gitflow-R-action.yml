@@ -1,5 +1,5 @@
 name: Gitflow Action for R Package Development
-run-name: ${{ github.actor }} now ${{ github.event_name }} to ${{ github.ref_name }}
+run-name: ${{ github.actor }} ${{ github.event_name }} to ${{ github.ref_name }}
 
 on:
   push:
