@@ -2,28 +2,38 @@
 
 
 
-## v1.4.0 (2024-01-24)
+## v1.5.0 (2024-01-25)
 
 ### Feature
 
-* feat: test new CD ([`939ae01`](https://github.com/ruiheesi/DSPWorkflow/commit/939ae01925475f607d1468403efaa82ab5360f5c))
+* feat: Update docker files ([`0d514a5`](https://github.com/ruiheesi/DSPWorkflow/commit/0d514a5e4ae9ab8a7c4228ff3185df3187725a7a))
 
 ### Unknown
 
-* Merge pull request #39 from ruiheesi/dev
+* Merge pull request #42 from ruiheesi/dev
 
-Dev ([`c9687e0`](https://github.com/ruiheesi/DSPWorkflow/commit/c9687e012edab147b72863b2625159db5de2ec25))
+Dev ([`8b826b3`](https://github.com/ruiheesi/DSPWorkflow/commit/8b826b3a6465c53535b156618ab8f7db409627fe))
 
-* Merge pull request #38 from ruiheesi/testCD3
+* Merge pull request #41 from ruiheesi/testCD3
 
-feat: test new CD ([`8260206`](https://github.com/ruiheesi/DSPWorkflow/commit/82602062aa007a29b1a69bc4d87dd6e77897cbdc))
+Test cd3 ([`4f279a8`](https://github.com/ruiheesi/DSPWorkflow/commit/4f279a8eece3fa0b5f3d1a8f98396354a8305c11))
+
+* Merge remote-tracking branch &#39;origin/main&#39; into testCD3 ([`4a00d0d`](https://github.com/ruiheesi/DSPWorkflow/commit/4a00d0dba8b56151c2af85f1d02a6199e59f5e3d))
+
+* Merge pull request #40 from ruiheesi/release_dev
+
+Release dev ([`2b0186b`](https://github.com/ruiheesi/DSPWorkflow/commit/2b0186b9b58840068c0ef490298d1e2e2e2418e0))
 
 
-## v1.3.0 (2024-01-24)
+## v1.4.0 (2024-01-24)
 
 ### Documentation
 
+* docs(version): Automatic development release ([`d997bcd`](https://github.com/ruiheesi/DSPWorkflow/commit/d997bcd29422e8f980dbf72c306c468cfa104675))
+
 * docs(version): Automatic development release ([`70123f1`](https://github.com/ruiheesi/DSPWorkflow/commit/70123f1663ac989813bae5dc9aaea22fbeacc8b4))
+
+* docs: Adding auto-generated files ([`9bb9e5a`](https://github.com/ruiheesi/DSPWorkflow/commit/9bb9e5aee7b9553929360577d178305c8237bd29))
 
 * docs(version): Automatic development release ([`7c2ff07`](https://github.com/ruiheesi/DSPWorkflow/commit/7c2ff074f7c135c78fbadb474fe691adc0878d18))
 
@@ -40,6 +50,8 @@ feat: test new CD ([`8260206`](https://github.com/ruiheesi/DSPWorkflow/commit/82
 * docs: change image used ([`db738d9`](https://github.com/ruiheesi/DSPWorkflow/commit/db738d9537a3300b6e41c840cec97b7399e0b366))
 
 ### Feature
+
+* feat: test new CD ([`939ae01`](https://github.com/ruiheesi/DSPWorkflow/commit/939ae01925475f607d1468403efaa82ab5360f5c))
 
 * feat: Update readme ([`8c5a45a`](https://github.com/ruiheesi/DSPWorkflow/commit/8c5a45a0cba089fe9382ea46e119062275836b19))
 
@@ -69,6 +81,14 @@ see https://bioinformatics.stackexchange.com/a/3375 ([`f484033`](https://github.
 
 ### Unknown
 
+* Merge pull request #39 from ruiheesi/dev
+
+Dev ([`c9687e0`](https://github.com/ruiheesi/DSPWorkflow/commit/c9687e012edab147b72863b2625159db5de2ec25))
+
+* Merge pull request #38 from ruiheesi/testCD3
+
+feat: test new CD ([`8260206`](https://github.com/ruiheesi/DSPWorkflow/commit/82602062aa007a29b1a69bc4d87dd6e77897cbdc))
+
 * Merge pull request #37 from ruiheesi/dev
 
 Dev ([`d8f754f`](https://github.com/ruiheesi/DSPWorkflow/commit/d8f754f68bc607f115875867bba8e6a203a26d8c))
@@ -79,6 +99,10 @@ feat:test mambabuild ([`dbd344b`](https://github.com/ruiheesi/DSPWorkflow/commit
 
 * feat:test mambabuild ([`cc76a55`](https://github.com/ruiheesi/DSPWorkflow/commit/cc76a5510575805977ceaa4624bcf12395cc2222))
 
+* Merge pull request #35 from ruiheesi/release_dev
+
+Release dev ([`2080649`](https://github.com/ruiheesi/DSPWorkflow/commit/208064977adbb54dc3b331d077d87592e69a9d7d))
+
 * Merge pull request #34 from ruiheesi/dev
 
 Dev ([`a10fe1e`](https://github.com/ruiheesi/DSPWorkflow/commit/a10fe1eb8e5bac2810fceec3e20252bf8c64da9f))
@@ -86,6 +110,10 @@ Dev ([`a10fe1e`](https://github.com/ruiheesi/DSPWorkflow/commit/a10fe1eb8e5bac28
 * Merge pull request #33 from ruiheesi/testCD_2
 
 Test cd 2 ([`928a481`](https://github.com/ruiheesi/DSPWorkflow/commit/928a481aeabf05f6f466f359def8f65c1828c92f))
+
+* Merge pull request #31 from ruiheesi/release_dev
+
+Release dev ([`17b24a8`](https://github.com/ruiheesi/DSPWorkflow/commit/17b24a8872111be02eaff954b8cec90d783e9ae3))
 
 * Merge pull request #30 from ruiheesi/dev
 
