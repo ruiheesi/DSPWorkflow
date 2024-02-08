@@ -2,32 +2,28 @@
 
 
 
-## v1.5.0 (2024-01-25)
+## v1.5.1 (2024-02-08)
 
-### Feature
+### Fix
 
-* feat: Update docker files ([`0d514a5`](https://github.com/ruiheesi/DSPWorkflow/commit/0d514a5e4ae9ab8a7c4228ff3185df3187725a7a))
+* fix: Update README ([`9c709e0`](https://github.com/ruiheesi/DSPWorkflow/commit/9c709e0c9bb6b9cb7cea8bcddae18919a911f8c2))
 
 ### Unknown
 
-* Merge pull request #42 from ruiheesi/dev
+* Merge pull request #45 from ruiheesi/dev
 
-Dev ([`8b826b3`](https://github.com/ruiheesi/DSPWorkflow/commit/8b826b3a6465c53535b156618ab8f7db409627fe))
+Demo 2/8 ([`904470f`](https://github.com/ruiheesi/DSPWorkflow/commit/904470fe39cbae28fab3471669027e341a559c38))
 
-* Merge pull request #41 from ruiheesi/testCD3
+* Merge pull request #44 from ruiheesi/Demo_2_8
 
-Test cd3 ([`4f279a8`](https://github.com/ruiheesi/DSPWorkflow/commit/4f279a8eece3fa0b5f3d1a8f98396354a8305c11))
-
-* Merge remote-tracking branch &#39;origin/main&#39; into testCD3 ([`4a00d0d`](https://github.com/ruiheesi/DSPWorkflow/commit/4a00d0dba8b56151c2af85f1d02a6199e59f5e3d))
-
-* Merge pull request #40 from ruiheesi/release_dev
-
-Release dev ([`2b0186b`](https://github.com/ruiheesi/DSPWorkflow/commit/2b0186b9b58840068c0ef490298d1e2e2e2418e0))
+fix: Update README Demo 2/8 ([`1e98c17`](https://github.com/ruiheesi/DSPWorkflow/commit/1e98c1714733e65bde59b8a51f443a832bf7b0bd))
 
 
-## v1.4.0 (2024-01-24)
+## v1.5.0 (2024-01-25)
 
 ### Documentation
+
+* docs(version): Automatic development release ([`83145f9`](https://github.com/ruiheesi/DSPWorkflow/commit/83145f9705c34dd5ce36fb7631b441f44af5d91d))
 
 * docs(version): Automatic development release ([`d997bcd`](https://github.com/ruiheesi/DSPWorkflow/commit/d997bcd29422e8f980dbf72c306c468cfa104675))
 
@@ -50,6 +46,8 @@ Release dev ([`2b0186b`](https://github.com/ruiheesi/DSPWorkflow/commit/2b0186b9
 * docs: change image used ([`db738d9`](https://github.com/ruiheesi/DSPWorkflow/commit/db738d9537a3300b6e41c840cec97b7399e0b366))
 
 ### Feature
+
+* feat: Update docker files ([`0d514a5`](https://github.com/ruiheesi/DSPWorkflow/commit/0d514a5e4ae9ab8a7c4228ff3185df3187725a7a))
 
 * feat: test new CD ([`939ae01`](https://github.com/ruiheesi/DSPWorkflow/commit/939ae01925475f607d1468403efaa82ab5360f5c))
 
@@ -80,6 +78,20 @@ Release dev ([`2b0186b`](https://github.com/ruiheesi/DSPWorkflow/commit/2b0186b9
 see https://bioinformatics.stackexchange.com/a/3375 ([`f484033`](https://github.com/ruiheesi/DSPWorkflow/commit/f4840334e3f5ba02ea6ff0106df5ad2a5e329679))
 
 ### Unknown
+
+* Merge pull request #42 from ruiheesi/dev
+
+Dev ([`8b826b3`](https://github.com/ruiheesi/DSPWorkflow/commit/8b826b3a6465c53535b156618ab8f7db409627fe))
+
+* Merge pull request #41 from ruiheesi/testCD3
+
+Test cd3 ([`4f279a8`](https://github.com/ruiheesi/DSPWorkflow/commit/4f279a8eece3fa0b5f3d1a8f98396354a8305c11))
+
+* Merge remote-tracking branch &#39;origin/main&#39; into testCD3 ([`4a00d0d`](https://github.com/ruiheesi/DSPWorkflow/commit/4a00d0dba8b56151c2af85f1d02a6199e59f5e3d))
+
+* Merge pull request #40 from ruiheesi/release_dev
+
+Release dev ([`2b0186b`](https://github.com/ruiheesi/DSPWorkflow/commit/2b0186b9b58840068c0ef490298d1e2e2e2418e0))
 
 * Merge pull request #39 from ruiheesi/dev
 
