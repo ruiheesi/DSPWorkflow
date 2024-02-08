@@ -78,3 +78,7 @@ Datetime: 2024-01-25 21:14:28, Version:  r-dspworkflow-test-1.5.0-r41_0.tar.bz2
 <br>[View Commit Log](Commit_Log_r-dspworkflow-test-1.5.0-r41_0.log)
 <br>Deployment Status: Default:Unauthorized
 <br>Deployment Time: 2024-01-25 21:45:57; Deployment Status: Success
+
+Datetime: 2024-02-08 15:24:49, Version:  r-dspworkflow-test-1.5.0-r41_0.tar.bz2
+<br>[View Commit Log](Commit_Log_r-dspworkflow-test-1.5.0-r41_0.log)
+<br>Deployment Status: Artifacts:WriteArtifactPermissionDenied
