@@ -82,3 +82,7 @@ Datetime: 2024-01-25 21:14:28, Version:  r-dspworkflow-test-1.5.0-r41_0.tar.bz2
 Datetime: 2024-02-08 15:24:49, Version:  r-dspworkflow-test-1.5.0-r41_0.tar.bz2
 <br>[View Commit Log](Commit_Log_r-dspworkflow-test-1.5.0-r41_0.log)
 <br>Deployment Status: Artifacts:WriteArtifactPermissionDenied
+
+Datetime: 2024-02-08 16:06:36, Version:  r-dspworkflow-test-dev-1.5.2-r41_0.tar.bz2
+<br>[View Commit Log](Commit_Log_r-dspworkflow-test-dev-1.5.2-r41_0.log)
+<br>Deployment Status: Success
