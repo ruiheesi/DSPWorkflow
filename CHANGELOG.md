@@ -2,26 +2,28 @@
 
 
 
-## v1.5.1 (2024-02-08)
+## v1.5.2 (2024-02-08)
 
 ### Fix
 
-* fix: Update README ([`9c709e0`](https://github.com/ruiheesi/DSPWorkflow/commit/9c709e0c9bb6b9cb7cea8bcddae18919a911f8c2))
+* fix: Update Readme for testing ([`805a227`](https://github.com/ruiheesi/DSPWorkflow/commit/805a227802241f3581b3d93532f5aee3cffdf47d))
 
 ### Unknown
 
-* Merge pull request #45 from ruiheesi/dev
+* Merge pull request #48 from ruiheesi/dev
 
-Demo 2/8 ([`904470f`](https://github.com/ruiheesi/DSPWorkflow/commit/904470fe39cbae28fab3471669027e341a559c38))
+Demo 2/8 ([`5fcbadd`](https://github.com/ruiheesi/DSPWorkflow/commit/5fcbadda490270470f3ad83afa2795a75cfdf7f4))
 
-* Merge pull request #44 from ruiheesi/Demo_2_8
+* Merge pull request #47 from ruiheesi/Demo_2_8
 
-fix: Update README Demo 2/8 ([`1e98c17`](https://github.com/ruiheesi/DSPWorkflow/commit/1e98c1714733e65bde59b8a51f443a832bf7b0bd))
+fix: Update Readme for testing ([`df6fb57`](https://github.com/ruiheesi/DSPWorkflow/commit/df6fb57c65edc9370cbeb1756e06f3e0eadf2422))
 
 
-## v1.5.0 (2024-01-25)
+## v1.5.1 (2024-02-08)
 
 ### Documentation
+
+* docs(version): Automatic development release ([`5798f3d`](https://github.com/ruiheesi/DSPWorkflow/commit/5798f3da86a9f8cc4e99e5e6e6aedca7c38a1646))
 
 * docs(version): Automatic development release ([`83145f9`](https://github.com/ruiheesi/DSPWorkflow/commit/83145f9705c34dd5ce36fb7631b441f44af5d91d))
 
@@ -59,6 +61,8 @@ fix: Update README Demo 2/8 ([`1e98c17`](https://github.com/ruiheesi/DSPWorkflow
 
 ### Fix
 
+* fix: Update README ([`9c709e0`](https://github.com/ruiheesi/DSPWorkflow/commit/9c709e0c9bb6b9cb7cea8bcddae18919a911f8c2))
+
 * fix: update gitflow naming ([`c226c27`](https://github.com/ruiheesi/DSPWorkflow/commit/c226c2754de515e5a8451ce47dc03982f6e16b94))
 
 * fix: update gitflow naming ([`ec53461`](https://github.com/ruiheesi/DSPWorkflow/commit/ec53461a650f045bb8b63986018d7b9c777e47e7))
@@ -78,6 +82,14 @@ fix: Update README Demo 2/8 ([`1e98c17`](https://github.com/ruiheesi/DSPWorkflow
 see https://bioinformatics.stackexchange.com/a/3375 ([`f484033`](https://github.com/ruiheesi/DSPWorkflow/commit/f4840334e3f5ba02ea6ff0106df5ad2a5e329679))
 
 ### Unknown
+
+* Merge pull request #45 from ruiheesi/dev
+
+Demo 2/8 ([`904470f`](https://github.com/ruiheesi/DSPWorkflow/commit/904470fe39cbae28fab3471669027e341a559c38))
+
+* Merge pull request #44 from ruiheesi/Demo_2_8
+
+fix: Update README Demo 2/8 ([`1e98c17`](https://github.com/ruiheesi/DSPWorkflow/commit/1e98c1714733e65bde59b8a51f443a832bf7b0bd))
 
 * Merge pull request #42 from ruiheesi/dev
 
