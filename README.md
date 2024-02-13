@@ -1,6 +1,7 @@
 # Digital-Spatial-Profiling-Workflow Test Development Version
 
 Demo CD 2/8/2024 1054
+test 2/13
 
 The DSP Workflow addresses a growing need to streamline the analysis of Spatial Transcriptomics data produced from Digital Spatial Profiling Technology (NanoString). It can be run in a docker container, and for biologists, in user-friendly web-based interactive notebooks (NIDAP, Palantir Foundry). It is based on the Bioconductor vignette ["Analyzing GeoMx-NGS RNA Expression Data with GeomxTools
 "](http://bioconductor.org/packages/release/workflows/vignettes/GeoMxWorkflows/inst/doc/GeomxTools_RNA-NGS_Analysis.html).  
